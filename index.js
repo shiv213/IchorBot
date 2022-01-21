@@ -28,6 +28,7 @@ const TOKEN = process.env['TOKEN'];
 
 // Edit your TEST_GUILD_ID here in the env file for development
 const TEST_GUILD_ID = process.env['TEST_GUILD_ID'];
+// const TEST_GUILD_ID = false;
 
 
 // Creating a collection for commands in client
